@@ -267,7 +267,3 @@ Possible enhancements:
 
 ---
 
-# Author
-
-FastBox Mystery Delivery System  
-Python Logistics Simulation Project
